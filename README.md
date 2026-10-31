@@ -1,6 +1,6 @@
 # GW2 Raid Selector 0.1.0.0
 
-Binary-only Nexus addon release. The source code is maintained in a separate private repository.
+Nexus-only addon release. The source code is maintained in a separate private repository.
 
 ## Changes
 - Auto-disable after Guild Wars 2 updates via Nexus volatile-addon flag.
