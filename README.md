@@ -1,4 +1,4 @@
-# GW2 Raid Selector 0.1.0.1
+# GW2 Raid Selector 0.1.0.2
 
 Nexus-only addon release
 
@@ -7,3 +7,5 @@ Nexus-only addon release
 - optional automatic close after encounter selection (enabled by default)
 - enable/disable addon icon
 - options page is accessible from the bottom of the addon window
+- fixed entry ids
+- added favorite system
