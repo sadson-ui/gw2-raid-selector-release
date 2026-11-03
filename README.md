@@ -7,5 +7,8 @@ Nexus-only addon release
 - optional automatic close after encounter selection (enabled by default)
 - enable/disable addon icon
 - options page is accessible from the bottom of the addon window
+# 0.1.0.2
 - fixed entry ids
 - added favorite system
+# 0.1.0.3
+- encounter pictures toggle
