@@ -1,4 +1,4 @@
-# GW2 Raid Selector 0.1.0.2
+# GW2 Raid Selector 0.1.0.4
 
 Nexus-only addon release
 
