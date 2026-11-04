@@ -12,3 +12,5 @@ Nexus-only addon release
 - added favorite system
 # 0.1.0.3
 - encounter pictures toggle
+# 0.1.0.4
+- minor fixes
