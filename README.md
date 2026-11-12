@@ -1,6 +1,6 @@
 # GW2 Raid Selector 0.1.0.6
 
-Nexus-only addon release
+Nexus-only addon release [Download Latest Release](https://github.com/sadson-ui/gw2-raid-selector-release/releases/latest/download/nexus_raid_selector.dll)
 
 ## Changes
 # 0.1.0.0
