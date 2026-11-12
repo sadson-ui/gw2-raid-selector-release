@@ -23,6 +23,6 @@ Nexus-only addon release
 - Added an option to open after the final boss
 - Added quick access icon visibility options for always or only in instances
 # 0.1.0.6
-- 26-11-10 fix
+- 2026-11-10 fix
 # 0.1.0.7
 - Added a restriction outside known raid and strike maps
