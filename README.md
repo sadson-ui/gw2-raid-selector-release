@@ -34,4 +34,4 @@ Nexus-only addon release [Download Latest Release](https://github.com/sadson-ui/
 - Added map IDs for raid and strike encounters
 - Added or adjusted map checks and status timeouts
 # 0.1.0.0
-- Initial version with raid and strike encounter selection and a daily encounter list 
+- Initial version with raid and strike encounter selection and a daily encounter list
