@@ -1,8 +1,17 @@
-# GW2 Raid Selector 0.1.0.7
+# Raid Selector 0.1.0.8
 
 Nexus-only addon release [Download Latest Release](https://github.com/sadson-ui/gw2-raid-selector-release/releases/latest/download/nexus_raid_selector.dll)
 
 ## Changes
+# 0.1.0.8
+- Added a Quickjoin window with buttons to join squad members’ raid or strike instances and leave the current instance
+- Added Quickjoin image sizing, minimap anchoring, position offsets, locking, title bar and transparency controls, and visibility options
+- Hide Quickjoin during combat and loading screens
+- Hide main window during loading screens
+- Restored weekly Call of the Mists and Emboldened options and Wing highlights for tile and list views
+- Added French and Spanish presets for raid wings and raid/strike encounter names, with search across all four name languages.
+- Renamed the addon display name and window title to “Raid Selector”
+- Addon window now hides in loading screen
 # 0.1.0.7
 - Added a restriction outside known raid and strike maps
 # 0.1.0.6
