@@ -4,7 +4,8 @@ Nexus-only addon release [Download Latest Release](https://github.com/sadson-ui/
 
 ## Changes
 # 0.1.0.9
-- test
+- Polished quickjoin
+- Added live changelog updates
 # 0.1.0.8
 - Added a Quickjoin window with buttons to join squad members’ raid or strike instances and leave the current instance
 - Added Quickjoin image sizing, minimap anchoring, position offsets, locking, title bar and transparency controls, and visibility options
