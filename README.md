@@ -1,4 +1,4 @@
-# Raid Selector 0.1.0.8
+# Raid Selector 0.1.0.9
 
 Nexus-only addon release [Download Latest Release](https://github.com/sadson-ui/gw2-raid-selector-release/releases/latest/download/nexus_raid_selector.dll)
 
